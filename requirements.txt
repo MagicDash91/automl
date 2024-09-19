@@ -13,3 +13,8 @@ google-generativeai
 ipython
 scikit-learn
 scipy
+unstructured
+openpyxl
+tiktoken
+python-magic
+networkx
