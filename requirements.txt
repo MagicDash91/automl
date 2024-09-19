@@ -1,0 +1,15 @@
+streamlit
+nltk
+langchain
+langchain_community
+langchain_google_genai
+faiss-cpu
+pandas
+matplotlib
+seaborn
+numpy
+streamlit
+google-generativeai
+ipython
+scikit-learn
+scipy
